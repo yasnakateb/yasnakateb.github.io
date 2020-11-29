@@ -1,6 +1,7 @@
+# Yasna Katebzadeh 
 ## About me
 ##### Who I am
-My name is Yasna. I was born in Shiraz, one of the most beautiful, historical cities in the world which is located in south-central Iran. Currently, I'm a final year undergraduate student pursuing my bachelor's in computer science from Shiraz University.
+My name is Yasna. Currently, I'm a final year undergraduate student pursuing my bachelor's in Computer Science from Shiraz University.
 
 ## Education
 ##### B.Sc.
