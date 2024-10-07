@@ -157,7 +157,7 @@ export default {
 	
 	education: [
 		{
-			title: "Master's in Industrial Electronics",
+			title: "Master's in Industrial Electronics ",
 			duration: "",
 			subtitle: "Polytechnic University of Madrid, Madrid",
 			details: [
