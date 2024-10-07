@@ -157,15 +157,29 @@ export default {
 	
 	education: [
 		{
+			title: "Master's in Computer Science and EngineeringIndustrial Electronics",
+			duration: "",
+			subtitle: "Polytechnic University of Madrid, Madrid",
+			details: [
+				
+				"2023-2024:UPM, Madrid, Spain",
+				
+			],
+			tags: [
+				"Computer Architecture",
+				"CGRAs",
+				"FPGAs",
+			],
+			icon: "graduation-cap",
+		},
+
+		{
 			title: "Bachelors in Computer Science and Engineering",
 			duration: "",
 			subtitle: "Shiraz University",
 			details: [
 				
-
-
-				"Since 2017: Shiraz University, Shiraz, Iran",
-				"Supervisor: Dr. Mohsen Raji",
+				"2017-2022: Shiraz University, Shiraz, Iran",
 				
 			],
 			tags: [
