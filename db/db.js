@@ -162,7 +162,7 @@ export default {
 			subtitle: "Polytechnic University of Madrid, Madrid",
 			details: [
 				
-				"2023-2024:UPM, Madrid, Spain",
+				"2023-2024: UPM, Madrid, Spain",
 				
 			],
 			tags: [
