@@ -156,7 +156,22 @@ export default {
 	},
 	
 	education: [
-		
+		{
+			title: "Master's in Industrial Electronics ",
+			duration: "",
+			subtitle: "Polytechnic University of Madrid, Madrid",
+			details: [
+				
+				"2023-2024: UPM, Madrid, Spain",
+				
+			],
+			tags: [
+				"CGRAs",
+				"FPGAs",
+				"Computer Architecture",
+			],
+			icon: "graduation-cap",
+		},
 
 		{
 			title: "Bachelors in Computer Science and Engineering",
