@@ -166,9 +166,9 @@ export default {
 				
 			],
 			tags: [
-				"Computer Architecture",
 				"CGRAs",
 				"FPGAs",
+				"Computer Architecture",
 			],
 			icon: "graduation-cap",
 		},
