@@ -21,7 +21,7 @@ export default {
 				projectName: "GA-ECG",
 				image: "",
 				summary:
-					"Framework for automated coarse-grained reconfigurable architecture (CGRA) design space exploration using genetic algorithm optimization (not open source yet).",
+					"Framework for automated CGRA design space exploration using genetic algorithm optimization (not open source yet).",
 				preview: "",
 				techStack: [
 					
