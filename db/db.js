@@ -109,15 +109,6 @@ export default {
 		],
 		software: [
 			{
-				projectName: "Chatroom",
-				image: "",
-				summary:
-					"A simple chatroom (server-client) in Rust",
-				preview:
-					"https://github.com/yasnakateb/Chatroom",
-				techStack: ["Rust"],
-			},
-			{
 				projectName: "SingleProcessorSystem",
 				image: "",
 				summary:
@@ -126,10 +117,20 @@ export default {
 				techStack: ["C" , "Python"],
 			},
 			{
+				projectName: "Chatroom",
+				image: "",
+				summary:
+					"Chatroom application (server-client architecture) implemented in Rust.",
+				preview:
+					"https://github.com/yasnakateb/Chatroom",
+				techStack: ["Rust"],
+			},
+			
+			{
 				projectName: "Dartris",
 				image: "",
 				summary:
-					"A simple Tetris Game in Dart",
+					"Tetris Game in Dart",
 				preview: "https://github.com/yasnakateb/Dartris",
 				techStack: ["Dart"],
 			},
@@ -156,7 +157,7 @@ export default {
 				projectName: "MNIST Neural Network",
 				image: "",
 				summary:
-					"Simple neural network using the MNIST data set to recognize hand-written digits.",
+					"Neural network trained on the MNIST dataset to recognize handwritten digits.",
 				preview: "https://github.com/yasnakateb/MNISTNeuralNetwork",
 				techStack: [],
 			},
