@@ -18,6 +18,16 @@ export default {
 	projects: {
 		web: [
 			{
+				projectName: "GA-ECG",
+				image: "",
+				summary:
+					"Framework for automated coarse-grained reconfigurable architecture (CGRA) design space exploration using genetic algorithm optimization (not open source yet).",
+				preview: "",
+				techStack: [
+					
+				],
+			},
+			{
 				projectName: "Pipelined ARM",
 				image: "",
 				summary:
